@@ -6,7 +6,7 @@
 
 ## 🖼️ 팀 포스터
 
-<div class="poster"><img src="poster.jpg" alt="팀 포스터" width="600"/></div>
+<div class="poster"><img src="유레카최종.pdf" alt="팀 포스터" width="600"/></div>
 
 <p align="center" class="poster-caption"><sub>이정문 화백, 「서기 2000년대 생활의 이모저모」(1965). 출처: <a href="https://v.daum.net/v/d4FeeJV0EN">전자신문 [과학 핫이슈] 1965년에 상상한 2000년대, 지금 그려보는 20년 후</a></sub></p>
 
